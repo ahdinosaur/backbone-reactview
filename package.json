@@ -1,0 +1,23 @@
+{
+  "name": "react-backbone-mixin",
+  "version": "0.1.0",
+  "description": "mixin to emulate conventions from backbone views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coopinabox/react-backbone-mixin.git"
+  },
+  "keywords": [
+    "react",
+    "backbone"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coopinabox/react-backbone-mixin/issues"
+  },
+  "homepage": "https://github.com/coopinabox/react-backbone-mixin"
+}
