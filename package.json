@@ -1,6 +1,6 @@
 {
   "name": "react-backbone-mixin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "mixin to emulate conventions from backbone views",
   "main": "index.js",
   "scripts": {
